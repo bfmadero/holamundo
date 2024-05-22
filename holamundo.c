@@ -3,7 +3,7 @@
 
 int main(){
 
-printf("holamundo\n");
+printf("holamundo\n lulo gay\n");
 
 return 0;
 }
